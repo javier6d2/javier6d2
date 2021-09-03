@@ -1,0 +1,1 @@
+- 👋 Hi, I’m particularly interested in ESP8266 and Arduino frameworks, but I have an early passion and interest in everything related with computing technologies.
